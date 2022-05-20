@@ -2,7 +2,7 @@ package subject;
 
 import java.util.Arrays;
 
-public class Buble_sort {
+public class Bubble_sort {
 	
 static int[] nums;
 	
